@@ -4,7 +4,7 @@ sudo:false
 
 cache:
   apt:true
-  direction:
+  directories:
     - node_modules
 
 
